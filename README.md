@@ -15,11 +15,12 @@ I'm a CyberSecurity Student passionate about Blockchain!
 <br/>
 
 ### I'm working on
+<!--
 * CyberSecurity
   - Keylogger wireless
   - Network Sniffer
   - Steganography 
-  - Docker logs analyzer
+  - Docker logs analyzer -->
 
 * Blockchain
   - Smart-Contracts
