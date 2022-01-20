@@ -1,5 +1,5 @@
 <p align="center">
-<img width="100" heigh="100" src="./images/network-g95fbf724c_1920.jpg" alt="banner" />
+<img width="100%" heigh="100%" src="./images/network-g95fbf724c_1920.jpg" alt="banner" />
 </p>
 
 <h3 align="center">
