@@ -11,7 +11,7 @@ I'm a CyberSecurity Student passionate about Blockchain!
 </h2> 
 
 ### 🤝 Connect with me:
-<a href=""><img src="./images/linkedin.svg" alt="Luís Costa | LinkedIn" width="21px" align="left"></a><a href="" ><img src="./images/instagram.svg" alt="Luís Costa | Instagram" width="21px" align="left" style="margin-left: 10px;"></a> 
+<a href="www.linkedin.com/in/luiscosta0"><img src="./images/linkedin.svg" alt="Luís Costa | LinkedIn" width="21px" align="left"></a><a href="" ><img src="./images/instagram.svg" alt="Luís Costa | Instagram" width="21px" align="left" style="margin-left: 10px;"></a> 
 <br/>
 
 ### I'm working on
