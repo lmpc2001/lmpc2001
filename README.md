@@ -13,17 +13,7 @@ I'm a CyberSecurity Student passionate about Blockchain!
 ### 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/luiscosta0"><img src="./images/linkedin.svg" alt="Luís Costa | LinkedIn" width="25px" align="left"></a><a href="https://www.instagram.com/luis_costa_21/" ><img src="./images/instagram.svg" alt="Luís Costa | Instagram" width="25px" align="left" style="margin-left: 10px;"></a> 
 <br/>
-<!--### I'm working on
-* CyberSecurity
-  - Keylogger wireless
-  - Network Sniffer
-  - Steganography 
-  - Docker logs analyzer 
 
-* Blockchain
- - Smart-Contracts
- - NFTs
--->
 ### 🌱 I'm currently learning 
 * Pentest
 * Blockchain
