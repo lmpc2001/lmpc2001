@@ -10,12 +10,11 @@ I'm a CyberSecurity Student passionate about Blockchain!
 <a href="https://www.linkedin.com/in/luiscosta0"><img src="./images/linkedin.svg" alt="Luís Costa | LinkedIn" width="25px" align="left"></a><a href="https://www.instagram.com/luis_costa_21/" ><img src="./images/instagram.svg" alt="Luís Costa | Instagram" width="25px" align="left" style="margin-left: 10px;"></a> 
 <br/>
 
-## 🌱 I'm currently learning 
+## 🌱 I'm currently studying 
 * Pentest
 * Blockchain
   - Smart-Contracts
   - NFTs
-* Docker
 
 ## 💼 Skill Set
 ![](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
