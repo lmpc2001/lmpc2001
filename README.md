@@ -1,7 +1,3 @@
-<p align="center">
-<img width="100%" heigh="100%" src="./images/network-g95fbf724c_1920.jpg" alt="banner" />
-</p>
-
 <h3 align="center">
 Hi, I'm <!--<a href="" target="_blank" rel="noreferrer">-->Luís<!--</a>--> 👋
 </h3>
