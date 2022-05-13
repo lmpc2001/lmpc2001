@@ -28,5 +28,4 @@ I'm a CyberSecurity Student passionate about Blockchain!
 
 ## 📊 GitHub Statistics
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=lmpc2001&theme=react&show_icons=true&hide_border=true&count_private=true)](https://github.com/lmpc2001)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmpc2001&layout=compact&theme=react&hide_border=true&count_private=true)](https://github.com/lmpc2001)
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=lmpc2001&theme=react&show_icons=true&hide_border=true&count_private=true)](https://github.com/lmpc2001) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmpc2001&layout=compact&theme=react&hide_border=true&count_private=true)](https://github.com/lmpc2001)
