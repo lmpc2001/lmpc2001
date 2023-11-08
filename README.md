@@ -1,31 +1,10 @@
-<h3 align="center">
-Hi, I'm <!--<a href="" target="_blank" rel="noreferrer">-->Luís<!--</a>--> 👋
-</h3>
+# Luís Costa
 
-<h2 align="center">
-I'm a CyberSecurity Student passionate about Blockchain!
-</h2> 
+Enthusiast of the best web development, blockchain and AI technologies
 
-## 🤝 Connect with me:
-<a href="https://pt.linkedin.com/in/luís-costa-56a001220?trk=profile-badge"><img src="./images/linkedin.svg" alt="Luís Costa | LinkedIn" width="25px" align="left"></a> 
-<br/>
+Cybersecurity researcher and student, focused on shaping tomorrow's more secure, resilient and trustworthy systems.
 
-## 🌱 I'm currently studying 
-* Pentest
-* Blockchain
-  - Smart-Contracts
-  - NFTs
+CTO at [@ROOTKey](htttps://www.rootkey.ai), driven by the unwavering ambition to create reliable solutions for the digital domain, and turn this startup into a technology unicorn
 
-## 💼 Skill Set
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+Join me on this journey of innovation, as we explore the limitless possibilities of technological development, blockchain and AI, reinforcing reliability and security in a constantly evolving digital world.
 
-## 📊 GitHub Statistics
-
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=lmpc2001&theme=react&show_icons=true&hide_border=true&count_private=true)](https://github.com/lmpc2001) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmpc2001&layout=compact&theme=react&hide_border=true&count_private=true)](https://github.com/lmpc2001)
