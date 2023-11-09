@@ -1,9 +1,8 @@
 # Luís Costa
 
-Enthusiast of the best web development, blockchain and AI technologies
-
 [![Linkedin Badge](https://img.shields.io/badge/-Luís%20Costa-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lc01/)](https://www.linkedin.com/in/lc01/) 
 
+Enthusiast of the best web development, blockchain and AI technologies
 
 Cybersecurity researcher and student, focused on shaping tomorrow's more secure, resilient and trustworthy systems.
 
