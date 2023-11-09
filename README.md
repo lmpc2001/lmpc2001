@@ -2,6 +2,9 @@
 
 Enthusiast of the best web development, blockchain and AI technologies
 
+[![Linkedin Badge](https://img.shields.io/badge/-Luís%20Costa-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lc01/)](https://www.linkedin.com/in/lc01/) 
+
+
 Cybersecurity researcher and student, focused on shaping tomorrow's more secure, resilient and trustworthy systems.
 
 CTO at [@ROOTKey](https://rootkey.ai), driven by the unwavering ambition to create reliable solutions for the digital domain, and turn this startup into a technology unicorn
