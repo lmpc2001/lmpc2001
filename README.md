@@ -1,6 +1,8 @@
 # Luís Costa
 
 [![Linkedin Badge](https://img.shields.io/badge/-Luís%20Costa-543DE0?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lc01/)](https://www.linkedin.com/in/lc01/) 
+[![Gmail Badge](https://img.shields.io/badge/-Email-543DE0?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiscosta@rootkey.ai)](mailto:luiscosta@rootkey.ai)
+
 
 Enthusiast of the best web development, blockchain and AI technologies
 
