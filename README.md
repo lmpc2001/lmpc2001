@@ -13,5 +13,5 @@ CTO at [@ROOTKey](https://rootkey.ai), driven by the unwavering ambition to crea
 Join me on this journey of innovation, as we explore the limitless possibilities of technological development, blockchain and AI, reinforcing reliability and security in a constantly evolving digital world.
 
 
-[![LC github stats](https://github-readme-stats.vercel.app/api?username=lmpc2001&theme=react&show_icons=true&hide_border=true&count_private=true)](https://github.com/lmpc2001) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmpc2001&layout=donut&theme=react&hide_border=true&count_private=true)](https://github.com/lmpc2001)
+[![LC github stats](https://github-readme-stats.vercel.app/api?username=lmpc2001&theme=react&show_icons=true&hide_border=true&count_private=true&bg_color=00000000)](https://github.com/lmpc2001) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmpc2001&layout=donut&theme=react&hide_border=true&count_private=true&bg_color=00000000)](https://github.com/lmpc2001)
